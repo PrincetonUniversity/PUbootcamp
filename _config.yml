@@ -1,1 +1,28 @@
-theme: jekyll-theme-leap-day
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Princeton University Computational Bootcamp 2018
+tagline:
+url:              https//cosden.github.io/PUbootcamp
+baseurl:          ''
+author:
+  name:           Ian Cosden
+  url:            https://github.com/cosden/
+  email:          icosden@princeton.edu
+plugins:
+  - jekyll-redirect-from
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/cosden/PUBootcamp
+  code:           https://github.com/cosden/PUBootcamp
+pages_list:
+  Tutorials:    'tutorials'
+  Recommended Books:    'recommended-books'
+  About:                'about'
