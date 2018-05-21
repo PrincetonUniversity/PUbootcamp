@@ -1,9 +1,7 @@
 ---
 layout: page
-title: A Comprehensive MPI Tutorial Resource
+title: 2018 Princeton Computational Bootcamp
 ---
-
-# 2018 Princeton Computational Bootcamp
 
 Organized by [PICSciE and Research Computing](https://www.princeton.edu/researchcomputing).
 
