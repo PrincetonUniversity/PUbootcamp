@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Princeton University Computational Bootcamp 2018
+title:            PU Bootcamp 2018
 tagline:
 url:              https://cosden.github.io/PUbootcamp
 baseurl:          '/PUbootcamp'
