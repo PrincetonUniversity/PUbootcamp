@@ -23,6 +23,6 @@ github:
   repo:           https://github.com/cosden/PUBootcamp
   code:           https://github.com/cosden/PUBootcamp
 pages_list:
-  Tutorials:    'tutorials'
-  Recommended Books:    'recommended-books'
-  About:                'about'
+  Agenda:       'agenda'
+  Registration: 'registartion'
+  About:        'about'
