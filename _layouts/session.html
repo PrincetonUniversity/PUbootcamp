@@ -8,28 +8,15 @@ layout: default
 <script>
   function write_header() {
   var output="test: ";
-  var temp="{{ page.instructor_title }}";
-  if (temp.length < 1) {
-    output += "ham ";
-  }
-		    
-  if ("{{ page.time }}".length ==0) {
-  //output += "{{ page.time }}<br>"
-  output +="cheese "
-  }
-  if ("{{ page.instructor_title }}" !==0) {
-     output += "{{ page.date }}<br><br>"
-  }
-  if ("{{ page.instructor}}" !==0) {
-     output += "<i>{{ page.instructor }}</i><br>"
-  }
-  if ("{{ page.instructor_title }}" !==0) {
-     output += "<i>{{ page.instructor_title }}</i><br>"
-  }
-  if ("{{ page.instructor_affiliation }}" !==0) {
-     output += "<i>{{ page.instructor_affiliation }}</i><br>"
-  }
+  var list=["{{ page.time }}", "{{ page.date }}", "{{ page.instructor }}",
+            "{{ page.instructor_title }}", "{{ page.instructor_affiliation }}"];
 
+  for (i = 0; i < list.length; i++ ) {
+     if (i.length > 1) {
+        output+=i;
+     }
+  }
+    
   return output;
 
   }
