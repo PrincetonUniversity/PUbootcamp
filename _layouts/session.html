@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<!-- parses session info and prints out only what is provided. 
+     This way during development it doesn't look silly, or if instructors don't provide
+     the same infomation the formatting is consistent. -->
 <script>
   function write_header() {
   var output="test: ";
@@ -27,14 +30,11 @@ layout: default
   }
 </script>
 
+
+<!-- main class to format each page.  Calls function above to write the session logistics like:
+     time, day (maybe location in future), instructor, etc. -->
 <div class="session">
   <h1 class="session-title">{{ page.title }}</h1>
-  {{ page.time }}<br>
-  {{ page.date }}<br><br>
-  <i>{{ page.instructor }}</i><br> 
-  <i>{{ page.instructor_title }}</i><br>
-  <i>{{ page.instructor_affiliation }}</i><br>
-
   <script> document.write(write_header()) </script>
   <hr />
 
@@ -42,6 +42,8 @@ layout: default
 <br><br>
 </div>
 
+<!-- Place holder for now for the Session materials.  May need to remove and move to individual
+     sessions later -->
 <h2>Session Materials</h2>
 <div class='materials'>
   Check back after the bootcamp for slides and/or code from this session.
