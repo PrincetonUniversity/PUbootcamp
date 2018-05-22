@@ -3,9 +3,11 @@ layout: page
 title: Registration
 ---
 
+Open to all members of the Princeton community. Seating is limited so advanced registration is required. **Participants are expected to attend all 4 days.**
 
-##Registration
 
-Please check back in early September for registration details
+Please check back in early September 2018 for registration details.
+
+
 
 
