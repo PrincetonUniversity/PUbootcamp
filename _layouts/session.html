@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<script>
+  function write_header() {
+   var output="";
+   if ("{{ page.instructor_title }}" !==0) {
+     output += "{{ page.instructor_title }}"
+   }
+   return output;
+  }
+
 
 <div class="session">
   <h1 class="session-title">{{ page.title }}</h1>
@@ -10,6 +19,8 @@ layout: default
   <i>{{ page.instructor }}</i><br> 
   <i>{{ page.instructor_title }}</i><br>
   <i>{{ page.instructor_affiliation }}</i><br>
+
+  <script> document.write(write_header() </script>
   <hr />
 
   {{ content }}
