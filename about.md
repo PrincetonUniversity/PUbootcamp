@@ -3,12 +3,30 @@ layout: page
 title: About
 ---
 
-Info about the bootcamp goes here.
+Background info about bootcamp and organizers
+
+<!--
+hopefully we will have sponsors!  I don't want to be presumptive, but if we don't, it won't happen
+-->
+Sponsored by 
 
 
 ## Organizers
+* Ian Cosden 
 
-### Ian Cosden
-
-Ian's bio here...
-
+<!--
+Do we want to have bio's, links, and/or pictures here?
+-->
+## Instructors/Lecturers
+* Vineet Bansal
+* Ian Cosden
+* Stephane Ethier
+* Eliot Feibush
+* Benjamin W. Hicks
+* Hyojoon Kim
+* Dawn Koffman
+* Matthieu Lefebvre
+* David J. Luet
+* Alexey Svyatkovskiy (tentative)
+* David Turner
+* Bei Wang 
