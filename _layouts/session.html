@@ -4,11 +4,26 @@ layout: default
 
 <script>
   function write_header() {
-   var output="test: ";
-   if ("{{ page.instructor_title }}" !==0) {
-     output += "{{ page.instructor_title }}"
-   }
-   return output;
+  var output="test: ";
+
+  if ("{{ page.time }}" !==0) {
+     output += "{{ page.time }}<br>"
+  }
+  if ("{{ page.instructor_title }}" !==0) {
+     output += "{{ page.date }}<br><br>"
+  }
+  if ("{{ page.instructor}}" !==0) {
+     output += "<i>{{ page.instructor }}</i><br>"
+  }
+  if ("{{ page.instructor_title }}" !==0) {
+     output += "<i>{{ page.instructor_title }}</i><br>"
+  }
+  if ("{{ page.instructor_affiliation }}" !==0) {
+     output += "<i>{{ page.instructor_affiliation }}</i><br>"
+  }
+
+  return output;
+
   }
 </script>
 
