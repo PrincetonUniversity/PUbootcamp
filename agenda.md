@@ -4,7 +4,7 @@ title: Agenda
 ---
 
 ## Day 1
-### Welcome & Introduction
+### Welcome & Introduction ({{ site.baseurl }}/abstracts/introduction/)
 ### Getting started with HPC Systems and Bash Command line
 ### What every computational research scientist should know about computer architecture
 ### Overview of Princeton (Computational) Resources
