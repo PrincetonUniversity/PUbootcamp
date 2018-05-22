@@ -7,14 +7,21 @@ layout: default
      the same infomation the formatting is consistent. -->
 <script>
   function write_header() {
-  var output="test: ";
-  var list=["{{ page.time }}", "{{ page.date }}", "{{ page.instructor }}",
-            "{{ page.instructor_title }}", "{{ page.instructor_affiliation }}"];
 
-  for (i = 0; i < list.length; i++ ) {
-     if (i.length > 1) {
-        output+="i";
-     }
+  if ("{{ page.time }}".length !==0) {
+    output += "{{ page.time }}<br>"
+  }
+  if ("{{ page.instructor_title }}".length !==0) {
+     output += "{{ page.date }}<br><br>"
+  }
+  if ("{{ page.instructor}}".length !==0) {
+     output += "<i>{{ page.instructor }}</i><br>"
+  }
+  if ("{{ page.instructor_title }}".length !==0) {
+     output += "<i>{{ page.instructor_title }}</i><br>"
+  }
+  if ("{{ page.instructor_affiliation }}".length !==0) {
+     output += "<i>{{ page.instructor_affiliation }}</i><br>"
   }
     
   return output;
