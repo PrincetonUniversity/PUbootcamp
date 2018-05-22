@@ -1,8 +1,0 @@
----
-layout: post
-title: Parallel Programming - An introduction to parallel computing with MPI
----
-
-Instructor: Ian Cosden
-
-We will start with basics of distributed memory parallel computing with MPI. After introducion environment management, point-to-point communication, and collective communication routines, hands on exercises will reinforce the ideas and provide a few simple examples that can function as building blocks in the future.
