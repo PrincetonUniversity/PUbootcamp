@@ -8,9 +8,14 @@ layout: default
 <script>
   function write_header() {
   var output="test: ";
-
-  if ("{{ page.time }}" !==0) {
-     output += "{{ page.time }}<br>"
+  var temp="{{ page.instructor_title }}";
+  if (temp.length < 1) {
+    output += "ham ";
+  }
+		    
+  if ("{{ page.time }}".length ==0) {
+  //output += "{{ page.time }}<br>"
+  output +="cheese "
   }
   if ("{{ page.instructor_title }}" !==0) {
      output += "{{ page.date }}<br><br>"
