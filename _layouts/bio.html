@@ -25,6 +25,14 @@ layout: default
 </script>
 
 
+
+<script>
+function goBack() {
+    window.history.back();
+}
+</script>
+
+
 <!-- main class to format each page.  Calls function above to write the session logistics like:
      time, day (maybe location in future), instructor, etc. -->
 <div class="bio">
@@ -36,5 +44,5 @@ layout: default
 <br><br>
 </div>
 
-<a href="javascript:history.back()">Go Back</a>
-hello!
+<button onclick="goBack()">Go Back</button>
+
