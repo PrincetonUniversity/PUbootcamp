@@ -13,6 +13,7 @@ Sponsored by PICSciE and OIT.
 
 ## Organizers
 * Ian Cosden
+* ...
 
 <!--
 Do we want to have bio's, links, and/or pictures here?
