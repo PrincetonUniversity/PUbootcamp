@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: bio
 title: Instructor Bio
 instructor: Ian Cosden
 instructor_title:  Manager, HPC Software Engineering and Performance Tuning

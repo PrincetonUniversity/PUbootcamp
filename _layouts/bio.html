@@ -9,12 +9,6 @@ layout: default
   function write_header() {
   var output = "";
   
-  if ("{{ page.time }}".length !==0) {
-    output += "{{ page.time }}<br>"
-  }
-  if ("{{ page.date }}".length !==0) {
-     output += "{{ page.date }}<br><br>"
-  }
   if ("{{ page.instructor}}".length !==0) {
      output += "<i>{{ page.instructor }}</i><br>"
   }
@@ -33,8 +27,8 @@ layout: default
 
 <!-- main class to format each page.  Calls function above to write the session logistics like:
      time, day (maybe location in future), instructor, etc. -->
-<div class="session">
-  <h1 class="session-title">{{ page.title }}</h1>
+<div class="bio">
+  <h1 class="bio-title">{{ page.title }}</h1>
   <script> document.write(write_header()) </script>
   <hr />
 
@@ -42,11 +36,4 @@ layout: default
 <br><br>
 </div>
 
-<!-- Place holder for now for the Session materials.  May need to remove and move to individual
-     sessions later -->
-<h2>Session Materials</h2>
-<div class='materials'>
-  Check back after the bootcamp for slides and/or code from this session.
-  Click <a href="{{ site.baseurl }}/agenda/">here</a> to return to the agenda.
-</div>
-<br/>
+<a href="javascript:history.back()">Go Back</a>
