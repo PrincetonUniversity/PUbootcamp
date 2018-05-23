@@ -33,6 +33,6 @@ Do we want to have bio's, links, and/or pictures here?
 * Bei Wang 
 
 
-##Website
+## Website
 
 This site is hosted entirely on [GitHub]({{ site.github.code }}). 
