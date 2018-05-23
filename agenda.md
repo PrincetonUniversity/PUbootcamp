@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Agenda
+title: Tenative Agenda
 ---
+
+Subject to change...
 
 ## Day 1
 * [Welcome & Introduction]({{ site.baseurl }}/sessions/introduction/)
