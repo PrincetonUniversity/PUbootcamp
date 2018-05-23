@@ -31,3 +31,8 @@ Do we want to have bio's, links, and/or pictures here?
 * Alexey Svyatkovskiy (tentative)
 * David Turner
 * Bei Wang 
+
+
+##Website
+
+This site is hosted entirely on [GitHub]({{ site.github.code }}). 
