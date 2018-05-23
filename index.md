@@ -8,6 +8,7 @@ Organized by [PICSciE and Research Computing](https://www.princeton.edu/research
 **Where**: Princeton University, 121 Lewis Library
 
 **When**: October 29 - Nov 1, 2018
+          9:00 am - 4:00 pm
 
 This 4-day bootcamp will provide an introduction to a variety of topics, tools, and techniques necessary to be successful in modern computational research careers.  Participants will be exposed to many aspects of common computational workflow from version control to visualization and everything in between. Our goal is to provide a broad exposure to a variety of subjects that are likely to be both immediately necessary as well as providing exposure to topics that will provide foundational knowledge and skills useful for future computational endeavors. A tentative agenda can be found [here]({{ site.baseurl }}/agenda). The agenda is expected to be finalized in September. 
 
