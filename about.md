@@ -19,7 +19,7 @@ Do we want to have bio's, links, and/or pictures here?
 -->
 ## Instructors/Lecturers
 * Vineet Bansal
-* Ian Cosden
+* [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
 * Stephane Ethier
 * Eliot Feibush
 * Benjamin W. Hicks
