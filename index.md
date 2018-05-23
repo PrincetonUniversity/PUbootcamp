@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Princeton Computational Bootcamp 2018
+title: Princeton University Computational Bootcamp 2018
 ---
 
 Organized by [PICSciE and Research Computing](https://www.princeton.edu/researchcomputing).
