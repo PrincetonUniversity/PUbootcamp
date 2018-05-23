@@ -8,11 +8,11 @@ Background info about bootcamp and organizers
 <!--
 hopefully we will have sponsors!  I don't want to be presumptive, but if we don't, it won't happen
 -->
-Sponsored by 
+Sponsored by PICSciE and OIT.  
 
 
 ## Organizers
-* Ian Cosden 
+* Ian Cosden
 
 <!--
 Do we want to have bio's, links, and/or pictures here?
