@@ -1,6 +1,6 @@
 # 2018 Princeton Computational Bootcamp
 
-Organized by [PICSciE and Research Computing](https://www.princeton.edu/researchcomputing).
+Organized by [Princeton Research Computing](https://www.princeton.edu/researchcomputing).
 
 **Where**: Princeton University, 121 Lewis Library
 **When**: October 29 - Nov 1, 2018
