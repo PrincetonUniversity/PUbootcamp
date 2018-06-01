@@ -3,7 +3,7 @@ layout: page
 title: Princeton University Computational Bootcamp 2018
 ---
 
-Organized by [PICSciE and Research Computing](https://www.princeton.edu/researchcomputing).
+Organized by [Princeton Research Computing](https://www.princeton.edu/researchcomputing).
 
 **Where**: Princeton University, 121 Lewis Library
 
