@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Bootcamp 2018
 tagline:
-url:              https://cosden.github.io/PUbootcamp
+url:              https://princetonuniversity.github.io/PUbootcamp
 baseurl:          '/PUbootcamp'
 author:
   name:           Ian Cosden
@@ -20,8 +20,8 @@ plugins:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/cosden/PUBootcamp
-  code:           https://github.com/cosden/PUBootcamp
+  repo:           https://github.com/PrincetonUniversity/PUBootcamp
+  code:           https://github.com/PrincetonUniversity/PUBootcamp
 pages_list:
   Agenda:       'agenda'
   Registration: 'registration'
