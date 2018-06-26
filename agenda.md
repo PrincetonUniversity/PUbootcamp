@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tenative Agenda
+title: Tentative Agenda
 ---
 
 Subject to change...
