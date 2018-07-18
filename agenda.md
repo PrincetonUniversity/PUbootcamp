@@ -22,7 +22,7 @@ Subject to change...
 * [Parallel Programming - An introduction to parallel computing with OpenMP]({{ site.baseurl }}/sessions/parallel-programming-openmp/)
 * [Introduction to Debugging]({{ site.baseurl }}/sessions/debugging/)
 * [Introduction to Performance Tuning & Optimization Tools]({{ site.baseurl }}/sessions/perf-tuning/)
-* [Data Transfer Basics and Globus Transfer Tool Tutorial]({{ site.baseurl }}/sessions/data-transfer-basics/)
+* [Data Transfer Basics & Tutorial]({{ site.baseurl }}/sessions/data-transfer-basics/)
 
 ## Day 4
 * [Statistical Graphics Considerations]({{ site.baseurl }}/sessions/statistical-graphics/)
