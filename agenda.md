@@ -24,7 +24,7 @@ Subject to change...
 * [Parallel Programming - An introduction to parallel computing with OpenMP]({{ site.baseurl }}/sessions/parallel-programming-openmp/)
 * [Introduction to Debugging]({{ site.baseurl }}/sessions/debugging/)
 * [Introduction to Performance Tuning & Optimization Tools]({{ site.baseurl }}/sessions/perf-tuning/)
-* [Reproducibility]({{ site.baseurl }}/sessions/reproducibility/}})
+* [Reproducibility]({{ site.baseurl }}/sessions/reproducibility/)
 
 ## Day 4
 * [Data Transfer Basics and Best Practices]({{ site.baseurl }}/sessions/data-transfer-basics/)
