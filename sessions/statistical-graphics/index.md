@@ -1,7 +1,7 @@
 ---
 layout: session
 title: Statistical Graphics Considerations
-instructor: Dawn Koffman 
+instructor: Dawn Koffman
 ---
 
 

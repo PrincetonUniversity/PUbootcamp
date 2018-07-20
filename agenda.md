@@ -11,8 +11,10 @@ Subject to change...
 * [What every computational research scientist should know about computer architecture]({{ site.baseurl }}/sessions/intro-computer-arch/)
 * [Overview of Princeton Computational Resources]({{ site.baseurl }}/sessions/pu-comp-resources/)
 * [Version Control with Git and GitHub]({{ site.baseurl }}/sessions/version-control-git/)
+* [How to Ask Technical Questions]({{ site.baseurl }}/sessions/technical-questions/)
 
 ## Day 2
+* [Command Line Tools]({{ site.baseurl }}/sessions/command-line-tools/)
 * [Parallel Programming - An introduction to parallel computing with MPI]({{ site.baseurl }}/sessions/parallel-programming-mpi/)
 * [Good Enough Practices for Research Software Engineering]({{ site.baseurl }}/sessions/good-enough-practices/)
 * [Machine Learning Technology]({{ site.baseurl }}/sessions/machine-learning/)
@@ -22,8 +24,9 @@ Subject to change...
 * [Parallel Programming - An introduction to parallel computing with OpenMP]({{ site.baseurl }}/sessions/parallel-programming-openmp/)
 * [Introduction to Debugging]({{ site.baseurl }}/sessions/debugging/)
 * [Introduction to Performance Tuning & Optimization Tools]({{ site.baseurl }}/sessions/perf-tuning/)
-* [Data Transfer Basics and Best Practices]({{ site.baseurl }}/sessions/data-transfer-basics/)
+* [Reproducibility]({{ site.baseurl }}/sessions/reproducibility/}})
 
 ## Day 4
+* [Data Transfer Basics and Best Practices]({{ site.baseurl }}/sessions/data-transfer-basics/)
 * [Statistical Graphics Considerations]({{ site.baseurl }}/sessions/statistical-graphics/)
 * [Scientific Visualization]({{ site.baseurl }}/sessions/scientific-visualization/)
