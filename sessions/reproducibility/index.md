@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Statistical Graphics Considerations
+title: Reproducible Research Goals and Guidelines
 instructor: Dawn Koffman
 ---
 
