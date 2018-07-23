@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Reproducible Research: Goals and Guidelines
+title: Reproducible Research\: Goals and Guidelines
 instructor: Dawn Koffman
 ---
 
