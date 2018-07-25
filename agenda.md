@@ -21,6 +21,7 @@ Subject to change...
 * [Floating Point Arithmetic is Not Real]({{ site.baseurl }}/sessions/floating-point/)
 
 ## Day 3
+* [Software engineering techniques for collaborative software development]({{ site.baseurl }}/sessions/collab-techniques/)
 * [Parallel Programming - An introduction to parallel computing with OpenMP]({{ site.baseurl }}/sessions/parallel-programming-openmp/)
 * [Introduction to Debugging]({{ site.baseurl }}/sessions/debugging/)
 * [Introduction to Performance Tuning & Optimization Tools]({{ site.baseurl }}/sessions/perf-tuning/)
