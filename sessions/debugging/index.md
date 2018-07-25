@@ -1,9 +1,9 @@
 ---
 layout: session
 title: Introduction to Debugging
-instructor: Stephane Ethier 
+instructor: Stephane Ethier
 ---
 
 
 
-Debugging single processor codes is already a daunting task that usually consumes a lot of development time. Luckily, several debugging tools are available to help the developer pinpoint the problem by controlling the state of execution. When dealing with large multi-processor codes, however, this task becomes a true challenge. Fortunately, advanced debugging tools, such as the DDT debugger from Allinea, can help speed up the process. This course will demonstrate how to use DDT with example codes so that participants leave with practical knowledge of this powerful tool.
+Debugging is often the most time-consuming step of code development. Fortunately, there are several tools available to users to speed up this task and the ARM DDT debugger is probably the most advanced among them. While debugging a single processor code is already a daunting task, dealing with a large multi-processor code becomes a true challenge. Luckily, the DDT debugger can handle multi-processor codes as easily as single-processor ones. This presentation will give the participants practical knowledge of code debugging using DDT as well as other straightforward methods based on experience and good software development practices. 
