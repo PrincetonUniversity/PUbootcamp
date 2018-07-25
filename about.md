@@ -23,16 +23,16 @@ Do we want to have bio's, links, and/or pictures here?
 * [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
 * Stephane Ethier
 * Eliot Feibush
-* Benjamin W. Hicks
+* [Benjamin W. Hicks]({{ site.baseurl }}/bios/ben-hicks)
 * Hyojoon Kim
 * Dawn Koffman
 * Matthieu Lefebvre
 * David J. Luet
 * Alexey Svyatkovskiy (tentative)
 * David Turner
-* Bei Wang 
+* Bei Wang
 
 
 ## Website
 
-This site is hosted entirely on [GitHub]({{ site.github.code }}). 
+This site is hosted entirely on [GitHub]({{ site.github.code }}).
