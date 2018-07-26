@@ -3,7 +3,7 @@ layout: session
 title: Parallel Programming - An introduction to parallel computing with MPI
 time: 9:00-10:30am
 date: Tuesday, October 30
-instructor: Ian Cosden
+instructor: Ian Cosden[Instructor bio]({{ site.baseurl }}/bios/ian-cosden/)
 instructor_title:  Manager, HPC Software Engineering and Performance Tuning
 instructor_affiliation: Research Computing
 ---
