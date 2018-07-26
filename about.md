@@ -12,25 +12,23 @@ Sponsored by PICSciE and OIT.
 
 
 ## Organizers
-* Ian Cosden
+* [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
 * ...
 
 <!--
 Do we want to have bio's, links, and/or pictures here?
 -->
 ## Instructors/Lecturers
-* Vineet Bansal
+* [Vineet Bansal]({{ site.baseurl }}/bios/vineet-bansal)
 * [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
-* Stephane Ethier
-* Eliot Feibush
-* [Benjamin W. Hicks]({{ site.baseurl }}/bios/ben-hicks)
-* Hyojoon Kim
-* Dawn Koffman
-* Matthieu Lefebvre
-* David J. Luet
-* Alexey Svyatkovskiy (tentative)
-* David Turner
-* Bei Wang
+* [Stephane Ethier]({{ site.baseurl }}/bios/stephane-ethier)
+* [Eliot Feibush]({{ site.baseurl }}/bios/eliot-feibush)
+* [Benjamin Hicks]({{ site.baseurl }}/bios/ben-hicks)
+* [Hyojoon Kim]({{ site.baseurl }}/bios/joon-kim)
+* [Dawn Koffman]({{ site.baseurl }}/bios/dawn-koffman)
+* [Matthieu Lefebvre]({{ site.baseurl }}/bios/matthieu-lefebvre)
+* [David Luet]({{ site.baseurl }}/bios/david-luet)
+* [Bei Wang]({{ site.baseurl }}/bios/bei-wang)
 
 
 ## Website
