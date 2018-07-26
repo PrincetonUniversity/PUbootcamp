@@ -9,3 +9,4 @@ Visualization enables insight, verification, and is very valuable for presentati
 
 The session assumes no prior experience with visualization tools. It is intended for researchers interested in developing visual representations of their data.
 
+[Instructor bio]({{ site.baseurl }}/bios/eliot-feibush/)

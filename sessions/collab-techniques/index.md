@@ -13,3 +13,6 @@ Within a team of developers if one developer's changes break the code, this will
 By testing code modifications automatically, with tools like Travis or Jenkins, you maximize your chances of catching errors before they are added to the shared code repository.
 
 This idea of automatically testing every changes to the shared repository is part of a software engineering practice called Continuous Integration (CI). This session is about adapting CI principles to the practice of scientific software development.
+
+
+[Instructor bio]({{ site.baseurl }}/bios/david-luet)

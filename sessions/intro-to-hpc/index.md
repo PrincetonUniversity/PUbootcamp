@@ -17,3 +17,5 @@ a Springdale Linux research computing cluster at Princeton such as Adroit,
 navigate the environment and file system, and then run a script or program
 through the SLURM scheduler.  The format will include a mixture of lecture and
 hands-on activities.
+
+[Instructor bio]({{ site.baseurl }}/bios/ben-hicks/)
