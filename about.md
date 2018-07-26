@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-Background info about bootcamp and organizers
-
 <!--
 hopefully we will have sponsors!  I don't want to be presumptive, but if we don't, it won't happen
 -->
