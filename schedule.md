@@ -1,9 +1,10 @@
 ---
 layout: schedule
 title: Schedule
+---
 
-    - name: "Check-in / Breakfast"
-      time: "9h00"
+name: "Check-in / Breakfast"
+time: "9h00"
 
     - name: "Linus Torvalds"
       photo: "/img/speaker.jpg"
@@ -82,4 +83,3 @@ title: Schedule
         title: "Why do I prefer Android over iPhone"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
         time: "17h00"
----
