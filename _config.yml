@@ -29,8 +29,8 @@ pages_list:
   Schedule:    'schedule'
 
 Schedule:
-    name: "Check-in / Breakfast"
-    time: "9h00"
+    - name: "Check-in / Breakfast"
+      time: "9h00"
 
     - name: "Linus Torvalds"
       photo: "/img/speaker.jpg"
