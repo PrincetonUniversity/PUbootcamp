@@ -29,7 +29,7 @@ Subject to change...
 | 10:45 - 11:45 | [Good Enough Practices for Research Software Engineering]({{ site.baseurl }}/sessions/good-enough-practices/) |
 | 11:45 - 12:15 | [How to Ask a Technical Question (in a way that’s likely to efficiently lead to a helpful answer)]({{ site.baseurl }}/sessions/technical-questions/) |
 | 12:15 - 1:00 | Lunch |
-| 1:00 - 2:30 | TBD |
+| 1:00 - 2:30 | TBD - Guest Lecture |
 | 2:30 - 2:45 | Break |
 | 2:45 - 4:45 | [Software engineering techniques for collaborative software development]({{ site.baseurl }}/sessions/collab-techniques/) |
 | 4:45 - 6:00 | Reception (location TBD) |
@@ -43,25 +43,18 @@ Subject to change...
 | 10:45 - 12:15 | [Tune your HPC Applications with Intel® Software Development Tools]({{ site.baseurl }}/sessions/perf-tuning/) |
 | 12:15 - 1:00 | Lunch |
 | 1:00 - 1:30 | [Reproducible Research: Goals and Guidelines]({{ site.baseurl  }}/sessions/reproducibility/) |
-| 1:30 - 2:45 | [Introduction to Debugging]({{ site.baseurl  }}/sessions/debugging/) |
-| 2:45 - 3:00 | Beak |
-| 3:00 - 3:45 | [Introduction to Debugging cont.]({{ site.baseurl  }}/sessions/debugging/) |
-| 3:45 - 4:45 | [Scientific Visualization]({{ site.baseurl }}/sessions/scientific-visualization/) |
+| 1:30 - 2:30 | [Floating Point Arithmetic is Not Real]( site.baseurl}}/sessions/floating-point) |
+| 2:30 - 2:45 | Beak |
+| 2:45 - 4:45 |  [Introduction to Debugging]({{ site.baseurl  }}/sessions/debugging/) |
+| 4:45 | End |
 
 ## Day 4 - November 1
 
 | Time | Session Title |
 | ------ | ----- |
-| 9:00 - 9:30 | TBD
-| 9:30 - 10:30 | [Floating Point Arithmetic is Not Real]( site.baseurl}}/sessions/floating-point)
-[ 10:30&nbsp;-&nbsp;10:45 ] | Break |
-| 10:45 - 11:45 | TBD |
-| 11:45 - 12:30 | [Statistical Graphiscs Considerations]{{ site.baseurl }}/sessions/parallel-programming-openmp/))
-| 12:30 - 1:15 |
-
-
-#* [Statistical Graphics Considerations]({{ site.baseurl }}/sessions/statistical-graphics/)
-#*
-#* [Parallel Programming - An introduction to parallel computing with MPI]({{ site.baseurl }}/sessions/parallel-programming-mpi/)
-* [Floating Point Arithmetic is Not Real]({{ site.baseurl }}/sessions/floating-point/)
-* [Parallel Programming - An introduction to parallel computing with OpenMP]({{ site.baseurl }}/sessions/parallel-programming-openmp/)
+| 9:00 - 10:30 | [Statistical Graphiscs Considerations]({{ site.baseurl }}/sessions/statistical-graphics/) |
+| 10:30&nbsp;-&nbsp;10:45 | Break |
+| 10:45 - 11:45 | [Scientific Visualization]({{ site.baseurl }}/sessions/scientific-visualization/) |
+| 11:45 - 12:15 | Closing Remarks & Participant Survey |
+| 12:15 - 12:45 | Lunch |
+| 12:45 | End |
