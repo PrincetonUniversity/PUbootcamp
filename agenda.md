@@ -29,7 +29,7 @@ title: Agenda
 | 11:30 - 12:15 | Jupyter Notebooks & Editors |
 | 12:15 - 1:00 | Lunch |
 | 1:00 - 1:30 | [How to Ask a Technical Question (in a way that’s likely to efficiently lead to a helpful answer)]({{ site.baseurl }}/sessions/technical-questions/) |
-| 1:30 - 2:30 | [Good Enough Practices for Research Software Engineering]({{ site.baseurl }}/sessions/good-enough-practices/) |
+| 1:30 - 2:30 | [Best Practices for Research Software Engineering]({{ site.baseurl }}/sessions/best-practices/) |
 | 2:30 - 3:00 | Break |
 | 3:00 - 5:00 | [Software engineering techniques for collaborative software development]({{ site.baseurl }}/sessions/collab-techniques/) |
 | 5:00 - 6:00 | Reception (location TBD) |
