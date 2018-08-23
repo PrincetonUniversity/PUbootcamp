@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Tentative Agenda
+title: Agenda
 ---
 
-Subject to change...
 
 ## Day 1 - October 29
 
@@ -20,6 +19,7 @@ Subject to change...
 | 3:15 - 4:00 | Jupyter Notebooks |
 | 4:00 - 5:00 | [Data Transfer Basics and Best Practices]({{ site.baseurl }}/sessions/data-transfer-basics/) |
 
+<br>
 ## Day 2 - October 30
 
 | Time | Session Title |
@@ -34,6 +34,7 @@ Subject to change...
 | 2:45 - 4:45 | [Software engineering techniques for collaborative software development]({{ site.baseurl }}/sessions/collab-techniques/) |
 | 4:45 - 6:00 | Reception (location TBD) |
 
+<br>
 ## Day 3 - October 31
 
 | Time | Session Title |
@@ -44,17 +45,17 @@ Subject to change...
 | 12:15 - 1:00 | Lunch |
 | 1:00 - 1:30 | [Reproducible Research: Goals and Guidelines]({{ site.baseurl  }}/sessions/reproducibility/) |
 | 1:30 - 2:30 | [Floating Point Arithmetic is Not Real]( site.baseurl }}/sessions/floating-point) |
-| 2:30 - 2:45 | Beak |
+| 2:30 - 2:45 | Break |
 | 2:45 - 4:45 |  [Introduction to Debugging]({{ site.baseurl  }}/sessions/debugging/) |
 
-
+<br>
 ## Day 4 - November 1
 
 | Time | Session Title |
 | ------ | ----- |
 | 9:00 - 10:30 | [Statistical Graphics Considerations]({{ site.baseurl }}/sessions/statistical-graphics/) |
-| 10:30&nbsp;-&nbsp;10:45 | Break |
+| 10:30 - 10:45 | Break |
 | 10:45 - 11:45 | [Scientific Visualization]({{ site.baseurl }}/sessions/scientific-visualization/) |
 | 11:45 - 12:15 | Closing Remarks & Participant Survey |
-| 12:15 - 12:45 | Lunch |
-| 12:45 | End of Bootcamp |
+| 12:15 - 1:00 | Lunch |
+| 1:00 | End of Bootcamp |
