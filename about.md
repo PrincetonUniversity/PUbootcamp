@@ -18,13 +18,13 @@ Do we want to have bio's, links, and/or pictures here?
 -->
 ## Instructors/Lecturers
 * [Vineet Bansal]({{ site.baseurl }}/bios/vineet-bansal)
+* [Matthew Cahn]({{ site.baseurl }}/bios/matthew-cahn))
 * [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
 * [Stephane Ethier]({{ site.baseurl }}/bios/stephane-ethier)
 * [Eliot Feibush]({{ site.baseurl }}/bios/eliot-feibush)
 * [Benjamin Hicks]({{ site.baseurl }}/bios/ben-hicks)
 * [Hyojoon Kim]({{ site.baseurl }}/bios/joon-kim)
 * [Dawn Koffman]({{ site.baseurl }}/bios/dawn-koffman)
-* [Matthieu Lefebvre]({{ site.baseurl }}/bios/matthieu-lefebvre)
 * [David Luet]({{ site.baseurl }}/bios/david-luet)
 * [Bei Wang]({{ site.baseurl }}/bios/bei-wang)
 
