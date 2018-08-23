@@ -18,7 +18,7 @@ Do we want to have bio's, links, and/or pictures here?
 -->
 ## Instructors/Lecturers
 * [Vineet Bansal]({{ site.baseurl }}/bios/vineet-bansal)
-* [Matthew Cahn]({{ site.baseurl }}/bios/matthew-cahn))
+* [Matthew Cahn]({{ site.baseurl }}/bios/matthew-cahn)
 * [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
 * [Stephane Ethier]({{ site.baseurl }}/bios/stephane-ethier)
 * [Eliot Feibush]({{ site.baseurl }}/bios/eliot-feibush)
