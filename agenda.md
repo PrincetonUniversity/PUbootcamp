@@ -43,10 +43,10 @@ Subject to change...
 | 10:45 - 12:15 | [Tune your HPC Applications with Intel® Software Development Tools]({{ site.baseurl }}/sessions/perf-tuning/) |
 | 12:15 - 1:00 | Lunch |
 | 1:00 - 1:30 | [Reproducible Research: Goals and Guidelines]({{ site.baseurl  }}/sessions/reproducibility/) |
-| 1:30 - 2:30 | [Floating Point Arithmetic is Not Real]( site.baseurl}}/sessions/floating-point) |
+| 1:30 - 2:30 | [Floating Point Arithmetic is Not Real]( site.baseurl }}/sessions/floating-point) |
 | 2:30 - 2:45 | Beak |
 | 2:45 - 4:45 |  [Introduction to Debugging]({{ site.baseurl  }}/sessions/debugging/) |
-| 4:45 | End |
+
 
 ## Day 4 - November 1
 
@@ -57,4 +57,4 @@ Subject to change...
 | 10:45 - 11:45 | [Scientific Visualization]({{ site.baseurl }}/sessions/scientific-visualization/) |
 | 11:45 - 12:15 | Closing Remarks & Participant Survey |
 | 12:15 - 12:45 | Lunch |
-| 12:45 | End |
+| 12:45 | End of Bootcamp |
