@@ -52,7 +52,7 @@ Subject to change...
 
 | Time | Session Title |
 | ------ | ----- |
-| 9:00 - 10:30 | [Statistical Graphiscs Considerations]({{ site.baseurl }}/sessions/statistical-graphics/) |
+| 9:00 - 10:30 | [Statistical Graphics Considerations]({{ site.baseurl }}/sessions/statistical-graphics/) |
 | 10:30&nbsp;-&nbsp;10:45 | Break |
 | 10:45 - 11:45 | [Scientific Visualization]({{ site.baseurl }}/sessions/scientific-visualization/) |
 | 11:45 - 12:15 | Closing Remarks & Participant Survey |
