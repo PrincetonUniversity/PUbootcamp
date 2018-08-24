@@ -8,6 +8,7 @@ title: Agenda
 
 | Time | Session Title |
 | ------ | ----- |
+| 8:30 - 8:45 | Registration |
 | 8:45 - 9:00 | [Welcome & Introduction]({{ site.baseurl }}/sessions/introduction/)
 | 9:00 - 10:30 | [Getting started with HPC Systems and Bash Command line]({{ site.baseurl }}/sessions/intro-to-hpc/) |
 | 10:30&nbsp;-&nbsp;10:45 | Break |
