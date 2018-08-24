@@ -1,7 +1,7 @@
 ---
 layout: session
-title: Overview of Princeton Computational Resources 
-instructor: Curt Hillegas (tentative)
+title: Overview of Princeton Computational Resources
+instructor: Curt Hillegas
 ---
 
-Summary of HPC and data resources available through Research Computing, Library, PICSciE, CSML, CDH,, etc.
+Summary of HPC and data resources available to Princeton University Researchers. 
