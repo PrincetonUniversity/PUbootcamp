@@ -16,12 +16,15 @@ Sponsored by PICSciE and OIT.
 Do we want to have bio's, links, and/or pictures here?
 -->
 ## Instructors/Lecturers
+* [Charles Augustine]({{ site.baseurl }}/bios/charles-augustine)
 * [Vineet Bansal]({{ site.baseurl }}/bios/vineet-bansal)
 * [Matthew Cahn]({{ site.baseurl }}/bios/matthew-cahn)
+* [Sunita Chandrasekaran](https://www.eecis.udel.edu/~schandra/)
 * [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
 * [Stephane Ethier]({{ site.baseurl }}/bios/stephane-ethier)
 * [Eliot Feibush]({{ site.baseurl }}/bios/eliot-feibush)
 * [Benjamin Hicks]({{ site.baseurl }}/bios/ben-hicks)
+* [Curtis Hillegas]({{ site.baseurl }}/bios/curt-hillegas)
 * [Hyojoon Kim]({{ site.baseurl }}/bios/joon-kim)
 * [Dawn Koffman]({{ site.baseurl }}/bios/dawn-koffman)
 * [David Luet]({{ site.baseurl }}/bios/david-luet)
