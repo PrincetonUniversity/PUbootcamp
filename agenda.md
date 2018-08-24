@@ -27,7 +27,7 @@ title: Agenda
 | 9:00 - 10:30 | [Command Line Tools]({{site.baseurl}}/sessions/command-line-tools/) |
 | 10:30&nbsp;-&nbsp;10:45 | Break |
 | 10:45 - 11:30 | TBD - Guest Lecture |
-| 11:30 - 12:15 | Jupyter Notebooks & Editors |
+| 11:30 - 12:15 | [Jupyter Notebooks & Editors (tentative)]({{site.baseurl}}/sessions/jupyter-notebooks/) |
 | 12:15 - 1:00 | Lunch |
 | 1:00 - 1:30 | [How to Ask a Technical Question (in a way that’s likely to efficiently lead to a helpful answer)]({{ site.baseurl }}/sessions/technical-questions/) |
 | 1:30 - 2:30 | [Good Practices for Research Software Engineering]({{ site.baseurl }}/sessions/good-practices/) |
