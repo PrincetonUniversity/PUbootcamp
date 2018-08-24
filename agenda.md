@@ -46,7 +46,7 @@ title: Agenda
 | 10:45 - 12:15 | [Tune your HPC Applications with Intel® Software Development Tools]({{ site.baseurl }}/sessions/perf-tuning/) |
 | 12:15 - 1:00 | Lunch |
 | 1:00 - 2:30 | [The Machine Learning Landscape]({{ site.baseurl }}/sessions/machine-learning/)  |
-| 2:30 - 3:00 | Lunch |
+| 2:30 - 3:00 | Break |
 | 3:00 - 5:00 |  [Introduction to Debugging]({{ site.baseurl  }}/sessions/debugging/) |
 
 <br>
