@@ -4,7 +4,7 @@ title: Agenda
 ---
 
 
-## Day 1 - October 29
+## Day 1 - Monday, October 29
 
 | Time | Session Title |
 | ------ | ----- |
@@ -20,7 +20,7 @@ title: Agenda
 | 3:30 - 5:00 | [Introduction to Parallel Programming with OpenMP and MPI]({{ site.baseurl }}/sessions/parallel-programming/) |
 
 <br>
-## Day 2 - October 30
+## Day 2 - Tuesday, October 30
 
 | Time | Session Title |
 | ------ | ----- |
@@ -37,7 +37,7 @@ title: Agenda
 
 
 <br>
-## Day 3 - October 31
+## Day 3 - Wednesday, October 31
 
 | Time | Session Title |
 | ------ | ----- |
@@ -51,7 +51,7 @@ title: Agenda
 | 3:00 - 5:00 |  [Introduction to Debugging]({{ site.baseurl  }}/sessions/debugging/) |
 
 <br>
-## Day 4 - November 1
+## Day 4 - Thursday, November 1
 
 | Time | Session Title |
 | ------ | ----- |
