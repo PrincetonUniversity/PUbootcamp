@@ -17,7 +17,7 @@ title: Agenda
 | 12:15 - 1:00 | Lunch (Outside Lewis 121)|
 | 1:00 - 3:00 | [Version Control with Git and GitHub]({{ site.baseurl }}/sessions/version-control-git/) |
 | 3:00 - 3:30 | Break |
-| 3:30 - 5:00 | Introduction to Parallel Programming with OpenMP and MPI |
+| 3:30 - 5:00 | [Introduction to Parallel Programming with OpenMP and MPI]({{ site.baseurl }}/sessions/parallel-programming/) |
 
 <br>
 ## Day 2 - October 30
