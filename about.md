@@ -11,7 +11,6 @@ Sponsored by PICSciE and OIT.
 
 ## Organizers
 * [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
-* ...
 
 <!--
 Do we want to have bio's, links, and/or pictures here?
