@@ -1,7 +1,7 @@
 ---
 layout: bio
-title: Matthieu Cahn
-instructor_title:  
+title: Matthew Cahn
+instructor_title:  Systems Administrator for Biology
 instructor_affiliation: Research Computing & Molecular Biology
 ---
 
