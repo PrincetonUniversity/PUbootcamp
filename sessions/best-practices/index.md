@@ -2,6 +2,8 @@
 layout: session
 title: Best Practices for Research Software Engineering
 instructor: Ian Cosden
+instructor_title:  Manager, HPC Software Engineering and Performance Tuning
+instructor_affiliation: Research Computing, Princeton University
 ---
 
 

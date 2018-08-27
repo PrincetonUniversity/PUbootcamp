@@ -2,6 +2,8 @@
 layout: session
 title: Reproducible Research Goals and Guidelines
 instructor: Dawn Koffman
+instructor_title: Statistical Programmer
+instructor_affiliation: Office of Population Research (OPR), Princeton University
 ---
 
 

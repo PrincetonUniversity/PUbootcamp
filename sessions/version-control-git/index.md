@@ -2,6 +2,8 @@
 layout: session
 title: Version Control with Git and GitHub
 instructor: David Luet
+instructor_title:  Senior Linux Administrator/Software & Programming Analyst
+instructor_affiliation: Geosciences & PICSciE, Princeton University
 ---
 
 

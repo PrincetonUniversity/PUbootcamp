@@ -2,7 +2,7 @@
 layout: bio
 title: Hyojoon Kim
 instructor_title: Cyber Infrastructure Engineer
-instructor_affiliation: Princeton Institute for Computational Science & Engineering
+instructor_affiliation: Princeton Institute for Computational Science & Engineering (PICSciE), Princeton University
 ---
 
 

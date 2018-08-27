@@ -2,6 +2,8 @@
 layout: session
 title: Software engineering techniques for collaborative software development
 instructor: David Luet
+instructor_title:  Senior Linux Administrator/Software & Programming Analyst
+instructor_affiliation: Geosciences & PICSciE, Princeton University
 ---
 
 This session builds on the previous one on Version Control with Git and GitHub to introduce important concepts of collaborative software development.

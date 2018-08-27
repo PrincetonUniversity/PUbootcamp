@@ -1,8 +1,8 @@
 ---
 layout: bio
 title: Stephane Ethier
-instructor_title:  Computational Physicist
-instructor_affiliation: PPPL
+instructor_title:  Principal Computational Physicist
+instructor_affiliation: Princeton Plasma Physics Laboratory (PPPL)
 ---
 
 

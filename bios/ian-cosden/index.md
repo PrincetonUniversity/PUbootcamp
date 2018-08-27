@@ -2,7 +2,7 @@
 layout: bio
 title: Ian A. Cosden
 instructor_title:  Manager, HPC Software Engineering and Performance Tuning
-instructor_affiliation: Research Computing, OIT
+instructor_affiliation: Research Computing, Princeton University
 ---
 
 

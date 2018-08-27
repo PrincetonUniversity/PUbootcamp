@@ -2,6 +2,8 @@
 layout: session
 title: How to Ask a Technical Question (in a way that’s likely to efficiently lead to a helpful answer)
 instructor: Dawn Koffman
+instructor_title: Statistical Programmer
+instructor_affiliation: Office of Population Research (OPR), Princeton University
 ---
 
 

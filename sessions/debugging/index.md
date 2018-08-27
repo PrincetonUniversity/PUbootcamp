@@ -2,6 +2,8 @@
 layout: session
 title: Introduction to Debugging
 instructor: Stephane Ethier
+instructor_title:  Principal Computational Physicist
+instructor_affiliation: Princeton Plasma Physics Laboratory (PPPL)
 ---
 
 

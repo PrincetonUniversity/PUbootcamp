@@ -2,7 +2,7 @@
 layout: bio
 title: David Luet
 instructor_title:  Senior Linux Administrator/Software & Programming Analyst
-instructor_affiliation: Geosciences, PICSciE
+instructor_affiliation: Geosciences & PICSciE, Princeton University
 ---
 
 

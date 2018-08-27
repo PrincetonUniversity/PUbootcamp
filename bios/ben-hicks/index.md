@@ -1,8 +1,8 @@
 ---
 layout: bio
-title: Ben Hicks
-instructor_title:  Research Software & Programming Analyst,
-instructor_affiliation: Research Computing, OIT and Center for Digital Humanities
+title: Benjamin Hicks
+instructor_title:  Research Software & Programming Analyst
+instructor_affiliation: Research Computing & Center for Digital Humanities (CDH), Princeton University
 ---
 
 

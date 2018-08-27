@@ -2,6 +2,8 @@
 layout: session
 title: Scientific Visualization
 instructor: Eliot Feibush
+instructor_title:  Computational Scientist
+instructor_affiliation: PICSciE, PPPL, GFDL
 ---
 
 

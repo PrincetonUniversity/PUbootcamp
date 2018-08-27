@@ -5,7 +5,7 @@ date: Monday, October 29th
 time: 9:00-10:30am
 instructor: Benjamin Hicks
 instructor_title: Research Software & Programming Analyst
-instructor_affiliation: Research Computing & Center for Digital Humanities
+instructor_affiliation: Research Computing & Center for Digital Humanities, Princeton University
 ---
 
 

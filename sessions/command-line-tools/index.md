@@ -3,7 +3,7 @@ layout: session
 title: Command Line Tools
 instructor: Benjamin Hicks
 instructor_title: Research Software & Programming Analyst
-instructor_affiliation: Research Computing & Center for Digital Humanities
+instructor_affiliation: Research Computing & Center for Digital Humanities, Princeton University
 ---
 
 This workshop will focus on the fundamentals of using Linux command line tools,

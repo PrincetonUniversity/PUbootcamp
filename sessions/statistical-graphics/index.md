@@ -2,6 +2,8 @@
 layout: session
 title: Statistical Graphics Considerations
 instructor: Dawn Koffman
+instructor_title: Statistical Programmer
+instructor_affiliation: Office of Population Research (OPR), Princeton University
 ---
 
 
