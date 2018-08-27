@@ -19,7 +19,7 @@ Do we want to have bio's, links, and/or pictures here?
 * [Charles Augustine]({{ site.baseurl }}/bios/charles-augustine)
 * [Vineet Bansal]({{ site.baseurl }}/bios/vineet-bansal)
 * [Matthew Cahn]({{ site.baseurl }}/bios/matthew-cahn)
-* [Sunita Chandrasekaran](https://www.eecis.udel.edu/~schandra/)
+* [Sunita Chandrasekaran]({{ site.baseurl }}/bios/sunita-chandrasekaran)
 * [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
 * [Stephane Ethier]({{ site.baseurl }}/bios/stephane-ethier)
 * [Eliot Feibush]({{ site.baseurl }}/bios/eliot-feibush)
