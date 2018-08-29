@@ -13,7 +13,7 @@ title: Agenda
 | 9:00 - 10:30 | [Getting Started With HPC Systems and Bash Command line]({{ site.baseurl }}/sessions/intro-to-hpc/) <br> Instructor: *Benjamin Hicks*|
 | 10:30&nbsp;-&nbsp;10:45 | Break |
 | 10:45 - 11:30 | [Overview of Princeton Computational Resources]({{ site.baseurl }}/sessions/pu-comp-resources/) <br> Instructor: *Curtis Hillegas* |
-| 11:30 - 12:15 | [What Every Computational Research Scientist Should Know About Computer Architecture]({{ site.baseurl }}/sessions/intro-computer-arch/)  <br> Instructor: *Ian Cosden* |
+| 11:30 - 12:15 | [What Every Computational Researcher Should Know About Computer Architecture]({{ site.baseurl }}/sessions/intro-computer-arch/)  <br> Instructor: *Ian Cosden* |
 | 12:15 - 1:00 | Lunch (Outside Lewis 121)|
 | 1:00 - 3:00 | [Version Control with Git and GitHub]({{ site.baseurl }}/sessions/version-control-git/)  <br> Instructor: *David Luet* |
 | 3:00 - 3:30 | Break |

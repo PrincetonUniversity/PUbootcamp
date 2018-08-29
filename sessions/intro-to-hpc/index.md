@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Getting started with HPC Systems and Bash Command line
+title: Getting Started with HPC Systems and Bash Command line
 date: Monday, October 29th
 time: 9:00-10:30am
 instructor: Benjamin Hicks

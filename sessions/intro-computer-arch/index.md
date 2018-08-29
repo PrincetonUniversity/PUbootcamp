@@ -1,6 +1,6 @@
 ---
 layout: session
-title: What every computational research scientist should know about computer architecture
+title: What Every Computational Researcher Should Know About Computer Architecture
 instructor: Ian Cosden
 instructor_title:  Manager, HPC Software Engineering and Performance Tuning
 instructor_affiliation: Research Computing, Princeton University
