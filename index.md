@@ -8,7 +8,7 @@ Organized by [Princeton Research Computing](https://www.princeton.edu/researchco
 **Where**: Princeton University, 121 Lewis Library
 
 **When**: October 29 - Nov 1, 2018  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/29: 9:00 am - 5:00 pm  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/29: 8:30 am - 5:00 pm  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/30: 9:00 am - 6:00 pm  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/31: 9:00 am - 5:00 pm  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          11/1: 9:00 am - 2:00 pm  
