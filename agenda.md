@@ -8,7 +8,7 @@ title: Agenda
 
 | Time | Session Title |
 | ------ | ----- |
-| 8:30 - 8:45 | Registration |
+| 8:30 - 8:45 | Arrival & Registration |
 | 8:45 - 9:00 | [Welcome & Introduction]({{ site.baseurl }}/sessions/introduction/) <br> Instructor: *Ian Cosden* |
 | 9:00 - 10:30 | [Getting Started With HPC Systems and Bash Command line]({{ site.baseurl }}/sessions/intro-to-hpc/) <br> Instructor: *Benjamin Hicks*|
 | 10:30&nbsp;-&nbsp;10:45 | Break |
