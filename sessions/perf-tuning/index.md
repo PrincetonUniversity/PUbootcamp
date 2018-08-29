@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Tune your HPC Applications with Intel® Software Development Tools
+title: Getting Started with Performance Tuning
 instructor: Bei Wang
 instructor_title: HPC Software Engineer
 instructor_affiliation: Research Computing & Astrophysical Sciences, Princeton University

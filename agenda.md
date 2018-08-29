@@ -44,7 +44,7 @@ title: Agenda
 | 9:00 - 10:00 | [Data Transfer Basics and Best Practices]({{ site.baseurl }}/sessions/data-transfer-basics/) <br> Instructor: *Hyojoon Kim* |
 | 10:00 - 10:30 | [Reproducible Research: Goals and Guidelines]({{ site.baseurl  }}/sessions/reproducibility/) <br> Instructor: *Dawn Koffman* |
 | 10:30&nbsp;-&nbsp;10:45 | Break |
-| 10:45 - 12:15 | [Tune your HPC Applications with Intel® Software Development Tools]({{ site.baseurl }}/sessions/perf-tuning/) <br> Instructor: *Bei Wang* |
+| 10:45 - 12:15 | [Getting Started with Performance Tuning]({{ site.baseurl }}/sessions/perf-tuning/) <br> Instructor: *Bei Wang* |
 | 12:15 - 1:00 | Lunch |
 | 1:00 - 2:30 | [The Machine Learning Landscape]({{ site.baseurl }}/sessions/machine-learning/) <br> Instructor: *Vineet Bansal*  |
 | 2:30 - 3:00 | Break |
