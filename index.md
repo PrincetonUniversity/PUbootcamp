@@ -17,7 +17,7 @@ This 3.5-day bootcamp will provide an introduction to a variety of topics, tools
 
 Lunch and coffee breaks will be provided.
 
-**Registration**: Open to all members of the Princeton community. Seating is limited so advanced registration is required. **Participants are expected to attend all 4 days.** More registration information can be found on the [Registration page]({{ site.baseurl }}/registration).
+**Registration**: Open to all members of the Princeton research community. Seating is limited so advanced registration is required. **Participants are expected to attend all 4 days.** More registration information can be found on the [Registration page]({{ site.baseurl }}/registration).
 
 **Requirements**: Because of the hands on nature of the bootcamp, each participant should bring a laptop and power supply.  
 
