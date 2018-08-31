@@ -19,7 +19,7 @@ Lunch and coffee breaks will be provided.
 
 **Registration**: Open to all members of the Princeton research community. Seating is limited so advanced registration is required. **Participants are expected to attend all 4 days.** More registration information can be found on the [Registration page]({{ site.baseurl }}/registration).
 
-**Requirements**: Because of the hands on nature of the bootcamp, each participant should bring a laptop and power supply.  
+**Requirements**: Because of the hands on nature of portions of the bootcamp, each participant should bring a laptop and power supply each day.  
 
 **Prerequisites**: Some basic programming experience particularly in Python and C/C++ is recommended. Some Linux knowledge would be helpful, but not required, as the basics will be covered in the first session.
 
