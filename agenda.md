@@ -60,5 +60,5 @@ title: Agenda
 | 10:45 - 11:45 | [Scientific Visualization]({{ site.baseurl }}/sessions/scientific-visualization/) <br> Instructor: *Eliot Feibush* |
 | 11:45 - 12:15 | Closing Remarks & Participant Survey |
 | 12:15 - 1:00 | Lunch |
-| 1:00 - 2:00 | [Ask the Instructors]({{ site.baseurl }}/sessions/ask-the-instructor/) |
+| 1:00 - 2:00 | [Ask the Instructors]({{ site.baseurl }}/sessions/ask-the-instructors/) |
 | 2:00 | End of Bootcamp |
