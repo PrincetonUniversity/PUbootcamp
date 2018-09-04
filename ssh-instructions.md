@@ -3,7 +3,7 @@ layout: page
 title: Instructions to Connect to a Remote Linux Server and Open a Graphical Program
 ---
 
-Starting with the first bootcamp session it will be necessary for each participant to connect to Adroit and run commands.  In later sessions it will be necessary to run graphical programs.  This page details the steps required to install necessary software and test the configuration.  Please make sure to do this ***before*** the bootcamp.  
+Starting with the first bootcamp session it will be necessary for each participant to connect to Adroit and run commands.  In later sessions it will be necessary to run graphical programs.  This page details the steps required to install necessary software and test the configuration.  Please make sure to do this ***before*** the bootcamp.  To request an account on Adroit, fill out the [request form](https://forms.rc.princeton.edu/registration/?q=adroit).
 
 ### MacOSX ###
 1. Install [XQuartz](http://xquartz.macosforge.org/), the official X server software for Mac
