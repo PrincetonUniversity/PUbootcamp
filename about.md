@@ -24,7 +24,7 @@ Do we want to have bio's, links, and/or pictures here?
 * [Stephane Ethier]({{ site.baseurl }}/bios/stephane-ethier)
 * [Eliot Feibush]({{ site.baseurl }}/bios/eliot-feibush)
 * [Benjamin Hicks]({{ site.baseurl }}/bios/ben-hicks)
-* [Curtis Hillegas]({{ site.baseurl }}/bios/curt-hillegas)
+* [Curt Hillegas]({{ site.baseurl }}/bios/curt-hillegas)
 * [Hyojoon Kim]({{ site.baseurl }}/bios/joon-kim)
 * [Dawn Koffman]({{ site.baseurl }}/bios/dawn-koffman)
 * [David Luet]({{ site.baseurl }}/bios/david-luet)

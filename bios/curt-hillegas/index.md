@@ -1,6 +1,6 @@
 ---
 layout: bio
-title: Curtis Hillegas
+title: Curt Hillegas
 instructor_title: Associate CIO
 instructor_affiliation: PICSciE/Research Computing, Princeton University
 ---
