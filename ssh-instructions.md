@@ -5,6 +5,8 @@ title: Instructions to Connect to a Remote Linux Server and Open a Graphical Pro
 
 Starting with the first bootcamp session it will be necessary for each participant to connect to Adroit and run remote commands.  In later sessions it will be necessary to run graphical programs.  This page details the steps required to install necessary software and test the configuration.  Please make sure to do this ***before*** the bootcamp.  To request an account on Adroit, fill out the [request form](https://forms.rc.princeton.edu/registration/?q=adroit).
 
+
+
 ### MacOSX ###
 1. Install [XQuartz](http://xquartz.macosforge.org/), the official X server software for Mac
 1. Run Applications > Utilities > XQuartz.app
@@ -13,7 +15,7 @@ Starting with the first bootcamp session it will be necessary for each participa
 ```
 ssh -Y <NetID>@adroit.princeton.edu
 ```
-Note that you will need use your normal NetID and password, plus DUO.
+Note that you will need use your normal NetID and password, plus DUO.  If you receive a message like `ssh_exchange_identification: Connection closed by remote host`, you are likely trying to connect from off-campus and will need to [take additional steps](https://researchcomputing.princeton.edu/faq/why-cant-i-login-to-a-clu).
 1. Once you are logged in, you can test the xserver is working correctly by opening an xterm window by typing the `xterm` command. A new window should open with a terminal prompt.  If you get a message similar to "Can't open display:" it is not working correctly.
 
 ### Windows ###
@@ -26,6 +28,7 @@ Note that you will need use your normal NetID and password, plus DUO.
 - Make sure the Connection type is set to SSH
 - Enable X11 forwarding (Connection > SSH > X11)
 - Click Open (note if connecting to adroit you'll need to use your normal NetID and password, plus DUO)
+- If you receive a message like `ssh_exchange_identification: Connection closed by remote host`, you are likely trying to connect from off-campus and will need to [take additional steps](https://researchcomputing.princeton.edu/faq/why-cant-i-login-to-a-clu).
 1. Once you are logged in, you can test the xserver is working correctly by opening an xterm window by typing the `xterm` command.
 
 ### Linux ###
@@ -35,5 +38,5 @@ Note that you will need use your normal NetID and password, plus DUO.
 ```
 ssh -Y <NetID>@adroit.princeton.edu
 ```
-Note that you will need use your normal NetID and password, plus DUO.
+Note that you will need use your normal NetID and password, plus DUO. If you receive a message like `ssh_exchange_identification: Connection closed by remote host`, you are likely trying to connect from off-campus and will need to [take additional steps](https://researchcomputing.princeton.edu/faq/why-cant-i-login-to-a-clu).
 1. Once you are logged in, you can test the xserver is working correctly by opening an xterm window by typing the `xterm` command. A new window should open with a terminal prompt.  If you get a message similar to "Can't open display:" it is not working correctly.
