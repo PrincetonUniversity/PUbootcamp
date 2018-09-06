@@ -8,10 +8,6 @@ hopefully we will have sponsors!  I don't want to be presumptive, but if we don'
 -->
 Sponsored by PICSciE and OIT.  
 
-
-## Organizers
-* [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
-
 <!--
 Do we want to have bio's, links, and/or pictures here?
 -->
@@ -29,6 +25,9 @@ Do we want to have bio's, links, and/or pictures here?
 * [Dawn Koffman]({{ site.baseurl }}/bios/dawn-koffman)
 * [David Luet]({{ site.baseurl }}/bios/david-luet)
 * [Bei Wang]({{ site.baseurl }}/bios/bei-wang)
+
+## Organizers
+* [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
 
 
 ## Website
