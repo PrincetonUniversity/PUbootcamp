@@ -7,4 +7,4 @@ instructor_affiliation: Research Computing, Princeton University
 ---
 
 
-Welcome to the first annual Princeton Computational Bootcamp
+Welcome to the first Princeton Research Computing Bootcamp!  
