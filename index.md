@@ -5,7 +5,7 @@ title: Princeton University Research Computing Bootcamp 2018
 
 Organized by [Princeton Research Computing](https://www.princeton.edu/researchcomputing).
 
-**Where**: Princeton University, 121 Lewis Library
+**Where**: Princeton University, 407 Jadwin Hall (PCTS)
 
 **When**: October 29 - Nov 1, 2018  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/29: 8:30 am - 5:00 pm  
