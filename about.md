@@ -27,6 +27,9 @@ Do we want to have bio's, links, and/or pictures here?
 * [David Luet]({{ site.baseurl }}/bios/david-luet)
 * [Bei Wang]({{ site.baseurl }}/bios/bei-wang)
 
+## Graduate Student Assistants
+* Uno Vaaland
+
 ## Organizers
 * [Ian Cosden]({{ site.baseurl }}/bios/ian-cosden)
 
