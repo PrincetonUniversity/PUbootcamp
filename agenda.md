@@ -29,10 +29,10 @@ title: Agenda
 | 10:45 - 11:30 | [Using the Parallel Programming Model, OpenACC, to do More Science and Less Programming]({{site.baseurl}}/sessions/openacc/) <br> Instructor: *Sunita Chandrasekaran*  |
 | 11:30 - 12:15 | [Jupyter Notebooks & Editors]({{site.baseurl}}/sessions/jupyter-notebooks/) <br> Instructor: *Matthew Cahn* |
 | 12:15 - 1:00 | Lunch |
-| 1:00 - 1:30 | [How to Ask a Technical Question (in a way that’s likely to efficiently lead to a helpful answer)]({{ site.baseurl }}/sessions/technical-questions/) <br> Instructor: *Dawn Koffman* |
-| 1:30 - 2:30 | [Good Practices for Research Software Engineering]({{ site.baseurl }}/sessions/good-practices/) <br> Instructor: *Ian Cosden* |
-| 2:30 - 3:00 | Break |
-| 3:00 - 5:00 | [Software Engineering Techniques for Collaborative Software Development]({{ site.baseurl }}/sessions/collab-techniques/) <br> Instructor: *David Luet* |
+| 1:00 - 1:30 | [Software Engineering Techniques for Collaborative Software Development]({{ site.baseurl }}/sessions/collab-techniques/) <br> Instructor: *David Luet* |
+| 3:00 - 3:30 | Break |
+| 3:30 - 4:00 | [How to Ask a Technical Question (in a way that’s likely to efficiently lead to a helpful answer)]({{ site.baseurl }}/sessions/technical-questions/) <br> Instructor: *Dawn Koffman* |
+| 4:00 - 5:00 | [Good Practices for Research Software Engineering]({{ site.baseurl }}/sessions/good-practices/) <br> Instructor: *Ian Cosden* |
 | 5:00 - 6:00 | Reception (location TBD) |
 
 
