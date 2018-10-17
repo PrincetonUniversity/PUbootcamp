@@ -6,7 +6,7 @@ title: About
 <!--
 hopefully we will have sponsors!  I don't want to be presumptive, but if we don't, it won't happen
 -->
-Sponsored by PICSciE and OIT.
+Sponsored by PICSciE and OIT.  
 Co-sponsors: [School of Engineering and Applied Science](https://engineering.princeton.edu/) & [Princeton Neuroscience Institute](https://pni.princeton.edu/)
 
 <!--
