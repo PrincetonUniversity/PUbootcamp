@@ -7,7 +7,7 @@ title: About
 hopefully we will have sponsors!  I don't want to be presumptive, but if we don't, it won't happen
 -->
 Organized and Sponsored by PICSciE and OIT Research Computing.  
-Co-sponsors: [School of Engineering and Applied Science](https://engineering.princeton.edu/), [Princeton Neuroscience Institute](https://pni.princeton.edu/), and [The Program in Applied & Computational Mathematics](https://www.pacm.princeton.edu/)
+Co-sponsors: [School of Engineering and Applied Science](https://engineering.princeton.edu/), [Princeton Neuroscience Institute](https://pni.princeton.edu/), [The Program in Applied & Computational Mathematics](https://www.pacm.princeton.edu/), and [The Center for Statistics and Machine Learning](https://csml.princeton.edu).
 
 <!--
 Do we want to have bio's, links, and/or pictures here?

@@ -4,7 +4,7 @@ title: Princeton University Research Computing Bootcamp 2018
 ---
 
 Organized and Sponsored by [Princeton Research Computing](https://www.princeton.edu/researchcomputing).  
-Co-sponsors: [School of Engineering and Applied Science](https://engineering.princeton.edu/), [Princeton Neuroscience Institute](https://pni.princeton.edu/), and [The Program in Applied & Computational Mathematics](https://www.pacm.princeton.edu/)
+Co-sponsored by: [School of Engineering and Applied Science](https://engineering.princeton.edu/), [Princeton Neuroscience Institute](https://pni.princeton.edu/), [The Program in Applied & Computational Mathematics](https://www.pacm.princeton.edu/), and [The Center for Statistics and Machine Learning](https://csml.princeton.edu).
 
 **Where**: Princeton University, 407 Jadwin Hall (PCTS)
 
