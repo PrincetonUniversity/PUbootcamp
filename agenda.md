@@ -14,7 +14,7 @@ title: Agenda
 | 10:30&nbsp;-&nbsp;10:45 | Break |
 | 10:45 - 11:30 | [Overview of Princeton Computational Resources]({{ site.baseurl }}/sessions/pu-comp-resources/) <br> Instructor: *Curt Hillegas* |
 | 11:30 - 12:15 | [What Every Computational Researcher Should Know About Computer Architecture]({{ site.baseurl }}/sessions/intro-computer-arch/)  <br> Instructor: *Ian Cosden* |
-| 12:15 - 1:00 | Lunch (Outside 407 Jadwin)|
+| 12:15 - 1:00 | Lunch (Outside 120 Lewis)|
 | 1:00 - 3:00 | [Version Control with Git and GitHub]({{ site.baseurl }}/sessions/version-control-git/)  <br> Instructor: *David Luet* |
 | 3:00 - 3:30 | Break |
 | 3:30 - 5:00 | [Introduction to Parallel Programming with OpenMP and MPI]({{ site.baseurl }}/sessions/parallel-programming/)  <br> Instructor: *Charles Augustine*|
@@ -33,7 +33,7 @@ title: Agenda
 | 3:00 - 3:30 | Break |
 | 3:30 - 4:00 | [How to Ask a Technical Question (in a way that’s likely to efficiently lead to a helpful answer)]({{ site.baseurl }}/sessions/technical-questions/) <br> Instructor: *Dawn Koffman* |
 | 4:00 - 5:00 | [Good Practices for Research Software Engineering]({{ site.baseurl }}/sessions/good-practices/) <br> Instructor: *Ian Cosden* |
-| 5:00 - 6:00 | Reception (location TBD) |
+| 5:00 - 6:00 | Reception (Professors Lounge, Fine Hall) |
 
 
 <br>

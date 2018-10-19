@@ -12,10 +12,12 @@ Princeton Research Computing Bootcamp participants agree to:
 * Alert a Bootcamp instructor or organizer if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 * Abide and adhere to PU’s [Rights, Rules, Responsibilities](https://rrr.princeton.edu/)
 
+
+
 ## Need Help?
-Please speak with Ian Cosden or Floe Fusin-Wischusen if you have any concerns.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ian Cosden, icosden@princeton.edu, (609) 258-2316  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Floe Fusin-Wischusen, floe@princeton.edu, (609) 258-8071  
+Please speak with either Ian Cosden or Floe Fusin-Wischusen if you have any concerns.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ian Cosden, icosden[at]princeton.edu, (609) 258-2316  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Floe Fusin-Wischusen, floe[at]princeton.edu, (609) 258-8071  
 You may also reach out to any bootcamp instructor.
 
 We welcome your feedback on this and every other aspect of the Bootcamp, and we thank you for working with us to make it a safe, inclusive, and enjoyable experience for everyone who participates.

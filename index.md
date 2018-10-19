@@ -3,10 +3,14 @@ layout: page
 title: Princeton University Research Computing Bootcamp 2018
 ---
 
+#### Update 10/19/18 - Location Changed to 120 Lewis Library ####
+
+
 Organized and Sponsored by [Princeton Research Computing](https://www.princeton.edu/researchcomputing).  
 Co-sponsored by: [School of Engineering and Applied Science](https://engineering.princeton.edu/), [Princeton Neuroscience Institute](https://pni.princeton.edu/), [The Program in Applied & Computational Mathematics](https://www.pacm.princeton.edu/), and [The Center for Statistics and Machine Learning](https://csml.princeton.edu).
 
-**Where**: Princeton University, 407 Jadwin Hall (PCTS)
+**Where**: Princeton University, 120 Lewis Library
+
 
 **When**: October 29 - Nov 1, 2018  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          10/29: 8:30 am - 5:00 pm  
@@ -17,6 +21,8 @@ Co-sponsored by: [School of Engineering and Applied Science](https://engineering
 This 4-day bootcamp will provide an introduction to a variety of topics, tools, and techniques necessary to be successful in modern computational research careers.  Participants will be exposed to many aspects of common computational workflows from version control to visualization and everything in between. The focus is not on learning specific programming languages.  Instead, our goal is to provide a broad exposure to a variety of subjects that are likely to be both immediately necessary as well as providing exposure to topics that will provide foundational knowledge and skills useful for future computational endeavors.   The bootcamp will consists of a series of short sessions (see [agenda]({{ site.baseurl }}/agenda)) each focused on a different topic.  Some sessions will be lectures, while others will have a combination of lecture and hands-on exercises to help reinforce new topics.
 
 Lunch and coffee breaks will be provided each day.
+
+**Code of Conduct**: All participants are expected to follow the code of conduct described [here]({{ site.baseurl }}/Code-of-Conduct).
 
 **Registration**: Open to all current Princeton University researchers/students. Seating is limited so advanced registration is required. **Participants are expected to attend all 4 days.** All participants must have an active PU NetID. A link to the registration site, along with more registration information can be found on the [Registration page]({{ site.baseurl }}/registration).
 
