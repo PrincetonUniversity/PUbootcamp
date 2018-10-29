@@ -12,3 +12,6 @@ Fundamentally, a Version Control System (VCS) is a system that records changes t
 We will start this talk by introducing the fundamental concepts of Git. The second part of the talk will show how to publish to a remote repository on GitHub.
 
 [Instructor bio]({{ site.baseurl }}/bios/david-luet/)
+
+## Session Materials ##
+[Link to GitHub material](http://luet.princeton.edu/git/)  
