@@ -17,3 +17,7 @@ through the SLURM scheduler.  The format will include a mixture of lecture and
 hands-on activities.
 
 [Instructor bio]({{ site.baseurl }}/bios/ben-hicks/)
+
+## Session Materials ##
+
+All presentation materials are [here](https://princetonuniversity.github.io/hpc_beginning_workshop/).
