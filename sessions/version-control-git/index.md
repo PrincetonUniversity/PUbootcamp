@@ -15,3 +15,4 @@ We will start this talk by introducing the fundamental concepts of Git. The seco
 
 ## Session Materials ##
 [Link to GitHub material](http://luet.princeton.edu/git/)  
+[Slides]({{ site.baseurl }}/sessions/version-control-git/git_workshop.pdf)  
