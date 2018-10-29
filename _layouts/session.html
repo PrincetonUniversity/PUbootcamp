@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<!-- parses session info and prints out only what is provided. 
+<!-- parses session info and prints out only what is provided.
      This way during development it doesn't look silly, or if instructors don't provide
      the same infomation the formatting is consistent. -->
 <script>
   function write_header() {
   var output = "";
-  
+
   if ("{{ page.time }}".length !==0) {
     output += "{{ page.time }}<br>"
   }
@@ -24,7 +24,7 @@ layout: default
   if ("{{ page.instructor_affiliation }}".length !==0) {
      output += "<i>{{ page.instructor_affiliation }}</i><br>"
   }
-    
+
   return output;
 
   }
@@ -43,10 +43,10 @@ layout: default
 </div>
 
 <!-- Place holder for now for the Session materials.  May need to remove and move to individual
-     sessions later -->
+     sessions later
 <h2>Session Materials</h2>
 <div class='materials'>
   Check back after the bootcamp for slides and/or code from this session.
   Click <a href="{{ site.baseurl }}/agenda/">here</a> to return to the agenda.
 </div>
-<br/>
+<br/> -->
