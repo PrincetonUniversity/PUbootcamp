@@ -10,3 +10,7 @@ We will start with the basics of distributed memory parallel computing using MPI
 
 
 [Instructor bio]({{ site.baseurl }}/bios/charles-augustine/)
+
+## Session Materials ##
+
+[Slides]({{ site.baseurl }}/parallel-programming/Intro_PP_bootcamp_2018.pdf)
