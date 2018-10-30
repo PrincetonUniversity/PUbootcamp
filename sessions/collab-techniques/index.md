@@ -20,5 +20,5 @@ This idea of automatically testing every changes to the shared repository is par
 [Instructor bio]({{ site.baseurl }}/bios/david-luet)
 
 ## Session Materials ##
-[Link to GitHub material](http://luet.princeton.edu/git/)  
-[Slides]({{ site.baseurl }}/sessions/version-control-git/git_workshop.pdf)  
+[Link to GitHub material](http://luet.princeton.edu/cicd/)  
+[Slides]({{ site.baseurl }}/sessions/collab-techniques/cicd.pdf)  
