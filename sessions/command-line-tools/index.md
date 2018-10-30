@@ -12,4 +12,7 @@ grep, find, and other stand-bys of BASH scripting. In a mixture of lecture
 and hands-on activities, attendees will learn in depth ways to
 make day-to-day tasks on HPC systems easier.
 
-[Instructor bio]({{ site.baseurl }}/bios/ben-hicks/)
+[Instructor bio]({{ site.baseurl }}/bios/ben-hicks/)  
+
+## Session Materials ##
+All presentation materials are [here](https://princetonuniversity.github.io/commandline_tools_workshop/)  
