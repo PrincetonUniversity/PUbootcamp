@@ -30,3 +30,8 @@ Other development environments and editors
 *  Sublime
 *  Nano
 *  Atom
+
+[Instructor bio]({{ site.baseurl }}/bios/matthew-cahn)
+
+## Session Materials ##
+[Slides]({{ site.baseurl }}/sessions/jupyter-notebooks/bootcamp-2018-10-30-jupyter-and-editors.pdf)
