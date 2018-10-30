@@ -3,8 +3,6 @@ layout: page
 title: Princeton University Research Computing Bootcamp 2018
 ---
 
-#### Update 10/19/18 - Location Changed to 120 Lewis Library ####
-
 
 Organized and Sponsored by [Princeton Research Computing](https://www.princeton.edu/researchcomputing).  
 Co-sponsored by: [School of Engineering and Applied Science](https://engineering.princeton.edu/), [Princeton Neuroscience Institute](https://pni.princeton.edu/), [The Program in Applied & Computational Mathematics](https://www.pacm.princeton.edu/), and [The Center for Statistics and Machine Learning](https://csml.princeton.edu).
@@ -24,7 +22,8 @@ Lunch and coffee breaks will be provided each day.
 
 **Code of Conduct**: All participants are expected to follow the code of conduct described [here]({{ site.baseurl }}/Code-of-Conduct).
 
-**Registration**: Open to all current Princeton University researchers/students. Seating is limited so advanced registration is required. **Participants are expected to attend all 4 days.** All participants must have an active PU NetID. A link to the registration site, along with more registration information can be found on the [Registration page]({{ site.baseurl }}/registration).
+**Registration**: Registration is now closed!  
+Open to all current Princeton University researchers/students. Seating is limited so advanced registration is required. **Participants are expected to attend all 4 days.** All participants must have an active PU NetID. A link to the registration site, along with more registration information can be found on the [Registration page]({{ site.baseurl }}/registration).
 
 **Requirements**: Because of the hands on nature of portions of the bootcamp, each participant should bring a laptop and power supply each day.  Prior to the bootcamp all participants should have an adroit account ([register here](https://forms.rc.princeton.edu/registration/?q=adroit)) and an ssh client and Xserver installed and tested on their laptop prior to the bootcamp ([MacOSX, Windows, and Linux instructions]({{ site.baseurl }}/ssh-instructions)).
 

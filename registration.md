@@ -3,7 +3,7 @@ layout: page
 title: Registration
 ---
 
-Update 10/19/18: Registration has been full for weeks and we are continuing to fill a wait list. We have moved to a larger room with more seats, unfortunately, due to the overwhelming interest we will still not be able to accommodate everyone. For those that are unable to get in this time, we do hope to be able to offer the bootcamp again soon.  
+Registration is now closed. For those that are unable to attend this time, we do hope to be able to offer the bootcamp again soon.  
 <br/><br/>
 
 
