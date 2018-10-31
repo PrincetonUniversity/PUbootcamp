@@ -16,4 +16,5 @@ We’ll take a top-down approach to exploring the field of Machine Learning. Alo
 
 ## Session Materials ##
 [Slides]({{ site.baseurl }}/sessions/machine-learning/ml_landscape.pptx)
+
 [Jupyter Notebook]({{ site.baseurl }}/sessions/machine-learning/ml_landscape.ipynb)
