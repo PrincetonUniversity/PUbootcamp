@@ -10,3 +10,6 @@ instructor_affiliation: Office of Population Research (OPR), Princeton Universit
 There are two very common types of technical questions: “How do I do X?” and “Can you help me figure out why what I’m doing isn’t working?” During this session we will discuss: (1) what to do before asking either type of question; (2) what kind of information is/is not helpful to include when explaining your question; (3) how to create a minimal, complete, verifiable code snippet that illustrates the problem you’re having; and (4) what to do after you’ve asked your question.
 
 [Instructor bio]({{ site.baseurl }}/bios/dawn-koffman/)
+
+## Session Materials ##
+[Slides]({{ site.baseurl }}/sessions/HowToAskQuestions2018Bootcamp.pdf)
