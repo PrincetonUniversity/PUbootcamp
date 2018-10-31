@@ -12,4 +12,4 @@ There are two very common types of technical questions: “How do I do X?” and
 [Instructor bio]({{ site.baseurl }}/bios/dawn-koffman/)
 
 ## Session Materials ##
-[Slides]({{ site.baseurl }}/sessions/HowToAskQuestions2018Bootcamp.pdf)
+[Slides]({{ site.baseurl }}/sessions/technical-questions/HowToAskQuestions2018Bootcamp.pdf)
