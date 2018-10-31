@@ -15,6 +15,6 @@ We’ll take a top-down approach to exploring the field of Machine Learning. Alo
 [Instructor bio]({{ site.baseurl }}/bios/vineet-bansal/)
 
 ## Session Materials ##
-[Slides]({{ site.baseurl }}/sessions/machine-learning/ml_landscape.pptx)
+[Slides]({{ site.baseurl }}/sessions/machine-learning/ml_landscape.pdf)
 
 [Jupyter Notebook]({{ site.baseurl }}/sessions/machine-learning/ml_landscape.ipynb)
