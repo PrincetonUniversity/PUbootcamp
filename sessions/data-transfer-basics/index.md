@@ -11,3 +11,6 @@ It is important that researchers do not spend too much time and effort on transf
 The session assumes no prior experience or knowledge about networking or data transfer practices.
 
 [Instructor bio]({{ site.baseurl }}/bios/joon-kim/)
+
+## Session Materials ##
+[Slides]({{ site.baseurl }}/sessions/data-transfer-basics/PUBootCamp_20181031_DataTransfer.pdf)
