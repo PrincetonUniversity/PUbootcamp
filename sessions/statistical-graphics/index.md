@@ -13,4 +13,4 @@ This session provides a discussion of issues to consider when designing statisti
 [Instructor bio]({{ site.baseurl }}/bios/dawn-koffman/)  
 
 ## Session Materials ##
-[Slides]({{ site.baseurl }}/StatisticalGraphicsConsiderationsBootcamp2018.pdf)  
+[Slides]({{ site.baseurl }}/sessions/statistical-graphics/StatisticalGraphicsConsiderationsBootcamp2018.pdf)  
