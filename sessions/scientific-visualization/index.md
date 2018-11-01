@@ -14,4 +14,4 @@ The session assumes no prior experience with visualization tools. It is intended
 [Instructor bio]({{ site.baseurl }}/bios/eliot-feibush/)  
 
 ## Session Materials ##
-[Slides]({{_site.baseurl_}}/sessions/scientific-visualization/bootcamp_web.pdf)  
+[Slides]({{ site.baseurl }}/sessions/scientific-visualization/bootcamp_web.pdf)  
