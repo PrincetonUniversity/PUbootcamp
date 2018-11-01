@@ -11,4 +11,7 @@ Data visualization enables insight, verification, and communication for presenta
 The session assumes no prior experience with visualization tools. It is intended for researchers interested in developing visual representations of their data.
 
 
-[Instructor bio]({{ site.baseurl }}/bios/eliot-feibush/)
+[Instructor bio]({{ site.baseurl }}/bios/eliot-feibush/)  
+
+## Session Materials ##
+[Slides]({{_site.baseurl_}}/sessions/scientific-visualization/bootcamp_web.pdf)  
